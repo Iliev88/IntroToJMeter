@@ -1,0 +1,15 @@
+variables:
+- user defined
+- user parameters
+- functions
+- defined in beanshell script
+
+properties:
+- system
+- jmeter properties
+- user properties
+
+hierarcy
+- jmeter.property
+- user.property
+- system.property

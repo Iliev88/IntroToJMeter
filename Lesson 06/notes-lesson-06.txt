@@ -1,0 +1,22 @@
+ultimate thread group - playing with the load; ramp up; load time etc.
+
+regex expression 
+$0$ - all array
+$1$ - first
+default value: NOt FOUND
+
+regex better than json extractor
+
+simple controller - just to organize stuff
+
+throughput controller - indicates the percanthe of threads passing through the controller
+
+transaction controller - add additional sampler to measere the overall time of all samplers
+
+function can be used everywhere
+
+${__P{}} is available through the whole test plan
+
+csv files for data driven tests
+
+

@@ -1,0 +1,8 @@
+order:
+1. config elements
+2. pre processors
+3. timers
+4. samplers
+5. post processors
+6. assertions
+7. listeners

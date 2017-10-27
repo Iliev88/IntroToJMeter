@@ -1,0 +1,8 @@
+lesson 2
+timers - constant + random => to simulate real users delay, not bots!
+
+response assertions 
+- contains and matches work work with regex
+- equals and substring - plain text
+
+without listeners when real load test is run!
